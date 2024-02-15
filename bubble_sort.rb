@@ -1,5 +1,5 @@
 def bubble_sort (input_arr)
-    iinput_arr.each do |element|
+    input_arr.each do |element|
         x=1
         position=0
         while x < input_arr.length
